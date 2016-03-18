@@ -2,7 +2,9 @@
 This is the source code of TF-IDF program. This is program is specific for LGT detection. The input should be all seqeuence parts of FASTA file for LGT detection. e.g. there are 5 sequences for LGT detection, the input file should be:
 
 ACCCGGGGTTTTCAAA # seq1
+
 ACCCTTGGGGCCCAAT # seq2
+
 ACCCGGGTTCCAAAAA # seq3
 ACGGTTGGGGCCCAAT # seq4
 ACCCTTGGGGCCCCCT # seq5
