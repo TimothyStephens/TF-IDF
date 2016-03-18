@@ -16,8 +16,11 @@ ACCCTTGGGGCCCCCT # seq5
 The group information should be provided in a separate file. e.g. there are 5 sequences in a dataset, and the first 2 sequences are in one group, the rest 8 sequences are in another group. Then the group information should be:
 
 2     # amount of groups
+
 1 2   # sequence IDs in group 1
+
 3 4 5 # sequence IDs in group 2
+
 
 
 The program is written by C++. It can be compiled by GCC 4.4.7.
