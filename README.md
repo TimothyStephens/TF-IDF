@@ -13,7 +13,7 @@ ACCCTTGGGGCCCCCT # seq5
 
 The header of each sequence is not required.
 
-The group information should be provided in a separate file. e.g. there are 5 sequences in a dataset, and the first 2 sequences are in one group, the rest 8 sequences are in another group. Then the group information should be:
+The group information should be provided in a separate file. e.g. there are 5 sequences in a dataset, and the first 2 sequences are in one group, the rest 3 sequences are in another group. Then the group information should be:
 
 2     # amount of groups
 
