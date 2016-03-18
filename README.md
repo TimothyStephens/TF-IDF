@@ -23,4 +23,4 @@ The group information should be provided in a separate file. e.g. there are 5 se
 
 
 
-The program is written in C++. It can be compiled by GCC 4.4.7.
+The program is written in C++. It can be compiled by GCC 4.4.7. If you have any question, please contact me by email y.cong@uq.edu.au.
