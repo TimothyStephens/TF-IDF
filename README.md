@@ -1,5 +1,5 @@
 # TF-IDF method for LGT detection.
-This is the source code of TF-IDF program. This is program is specific for LGT detection. The input should be seqeuence part of a FASTA file. e.g. there are 5 sequences for LGT detection, the input file should be:
+This is the source code of TF-IDF program. This program is specific for LGT detection. The input should be seqeuence part of a FASTA file. e.g. there are 5 sequences for LGT detection, the input file should be:
 
 ACCCGGGGTTTTCAAA # seq1
 
