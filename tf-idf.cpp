@@ -412,6 +412,7 @@ cout << "Build the species frequence matrix" << endl;
                 rMatrix[i][j] += spFreqMatrix[j][m] * freqMatrix[i][m];
 
             }
+            // normalizaion origin/(speciesNO*seqLength)
             rMatrix[i][j] = rMatrix[i][j] / (speciesClass[j]).size()  / (codedSeqs[i]).size();
         }
     }
